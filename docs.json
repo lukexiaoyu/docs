@@ -22,6 +22,12 @@
             ]
           },
           {
+            "group": "Wow",
+            "pages": [
+              "wow/zs"
+            ]
+          },
+          {
             "group": "Customization",
             "pages": [
               "essentials/settings",
